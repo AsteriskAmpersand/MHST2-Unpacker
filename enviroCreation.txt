@@ -1,0 +1,2 @@
+cd /d D:\AsteriskAmpersand\Documents\Stories\Unpacker
+py -3.7 -m venv env

@@ -1,0 +1,3 @@
+cd /d D:\AsteriskAmpersand\Documents\Stories\Unpacker
+call .\env\Scripts\activate
+call pyinstaller -F --clean main.spec
